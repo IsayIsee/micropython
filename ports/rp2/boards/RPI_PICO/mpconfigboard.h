@@ -13,7 +13,7 @@
 #define MICROPY_HW_WIZNET_SPI_MOSI          (19)
 #define MICROPY_HW_WIZNET_SPI_MISO          (16)
 #define MICROPY_HW_WIZNET_PIN_CS            (17)
-#define MICROPY_HW_WIZNET_PIN_RST           (20)
+#define MICROPY_HW_WIZNET_PIN_RST           (22)
 // Connecting the INTN pin enables RECV interrupt handling of incoming data.
 #define MICROPY_HW_WIZNET_PIN_INTN          (21)
 
